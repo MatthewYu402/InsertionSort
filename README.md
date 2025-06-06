@@ -1,6 +1,6 @@
 # Insertion Sort
 
-**Insertion Sort** is a sorting algorithm that uses one part of the array to hole the *sorted values* and the other
+**Insertion Sort** is a sorting algorithm that uses one part of the array to hold the *sorted values* and the other
 part of the array to hold values that are *not sorted yet*.
 
 The algorithm takes one value at a time from the unsorted part of the array and puts it into the right place in the
